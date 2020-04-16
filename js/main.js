@@ -106,7 +106,7 @@ $(document).ready(function() {
   // ========================================================================= //
 
   var magnifPopup = function() {
-    $('.popup-img').magnificPopup({
+    $('.popup-im').magnificPopup({
       type: 'image',
       removalDelay: 300,
       mainClass: 'mfp-with-zoom',
